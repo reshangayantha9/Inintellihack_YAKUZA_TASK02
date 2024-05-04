@@ -1,0 +1,39 @@
+text,intent
+Hi,Greet
+How are you?,Greet
+Hello,Greet
+Goodbye,Farewell
+See you later,Farewell
+Take care,Farewell
+What's the weather like today?,Inquiry
+Can you tell me the time?,Inquiry
+Where is the nearest restaurant?,Inquiry
+Hey there!,Greet
+What's up?,Greet
+Greetings!,Greet
+Bye,Farewell
+Catch you later,Farewell
+"Farewell, my friend",Farewell
+Have a nice day,Farewell
+Stay safe,Farewell
+What's the temperature?,Inquiry
+Tell me the current time,Inquiry
+Do you know a good place to eat?,Inquiry
+Recommend a restaurant nearby,Inquiry
+I'm hungry. Any suggestions?,Inquiry
+Where can I find food?,Inquiry
+How's your day going?,Greet
+Nice to see you!,Greet
+What's new?,Greet
+Take it easy,Farewell
+See you around,Farewell
+Goodnight,Farewell
+Until we meet again,Farewell
+What's the forecast?,Farewell
+Can you give me the time now?,Inquiry
+Any good food spots nearby?,Inquiry
+Where's the best place to dine?,Inquiry
+Feeling hungry. Need help!,Inquiry
+What's the best restaurant?,Inquiry
+Looking for some grub. Any ideas?,Inquiry
+Where's the nearest café?,Inquiry
